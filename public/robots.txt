@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /content/
+Disallow: /partials/
+
+Sitemap: https://dominicashoreexcursions.com/sitemap.xml
